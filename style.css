@@ -1,0 +1,35 @@
+.cabeçalho{
+background-color: black;
+color: goldenrod; 
+text-align: center;
+font-size: large;
+}
+.Dela{
+    text-align: center;
+    color: goldenrod;
+    background-color: black;
+}
+.pastorpintovaldo{
+    text-align: center;
+    background-color: black;
+
+}
+.texto{
+    color: goldenrod;
+    background-color: black;
+    white: space 5px;;
+}
+.bundamole{
+    background-color: black;
+}
+.texto1{
+    text-align: center;
+    color: goldenrod;
+}
+.texto2{
+    text-align: center;
+    color: goldenrod;
+}
+.Cruz{
+    text-align: center;
+}
